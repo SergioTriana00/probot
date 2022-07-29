@@ -1,2 +1,2 @@
 # probot
-probot x
+probot Github para pruebas del bot
